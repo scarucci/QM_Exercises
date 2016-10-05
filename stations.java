@@ -1,4 +1,4 @@
-/* AUTHOR: Simon Carucci - Station finder */
+/* AUTHOR: Simon Carucci - Station finder (exercise 3) */
 
 import java.util.Scanner; // import scanner
 
